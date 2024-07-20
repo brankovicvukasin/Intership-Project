@@ -1,0 +1,209 @@
+High
+Medium
+Fixed Price
+Node.js
+React.js
+Java
+TypeScript
+JavaScript
+Angular
+HTML/CSS
+Python
+Vue.js
+React Native
+PHP
+Azure
+C#
+WordPress
+Docker
+NON-BILLABLE
+GraphQL
+Umbraco
+Laravel
+Kubernetes
+Drupal
+SQL
+Next.js
+Salesforce
+Android
+Kotlin
+Sitecore
+Spring Boot
+Microservices
+Optimizely
+REST API
+iOS
+jQuery
+PostgreSQL
+Terraform
+Swift
+ASP.NET
+Django
+MSSQL
+MongoDB
+Elasticsearch
+Flutter
+Nuxt.js
+Symfony
+Low
+Power BI
+Redux.js
+Cypress
+Jenkins
+Apache Kafka
+MySQL
+Discovery
+AWS Serverless
+Adobe Experience Manager (AEM)
+SASS
+AngularJS
+Shopify
+C++
+Knockout.js
+Objective-C
+Playwright
+Contentful
+SFCC
+ETL
+Magento
+NGRX
+WooCommerce
+Azure DevOps
+Airflow
+Blockchain
+Oracle
+Postman
+Tableau
+Azure SQL
+Microsoft Dynamics
+NoSQL
+Power Apps
+React
+Snowflake
+Support
+.NET Core
+Azure Functions
+Design
+Kentico
+Ruby
+Internal
+Azure Data Factory
+Azure Synapse
+Business Analyst
+CI/CD
+Chat GPT
+Dart
+Hubspot
+Rust
+Spring
+Website
+Ansible
+Databricks
+Github Actions
+Next
+Qt
+RavenDB
+RxJS
+Tailwind CSS
+Solution Assessment
+Outsystems
+Pyspark
+Apollo
+Bootstrap
+Centra eCommerce
+Cyber Security
+Data Science
+Data Warehousing
+Delta Lake
+Eloqua
+Express.js
+Hygraph CMS
+KMP
+Marketo
+Mobx
+MudBlazor
+NUnit
+Puppeteer
+Rancher
+SAP success
+Svelte
+Synapse Analytics
+Webflow
+Outsustem
+Content Loading
+Remix
+Time & Material
+Data Engineer
+Miloš Ivanović
+AWS
+AWS Fargat
+Acquia
+Adobe Analytics
+Adobe Campaign
+Akamai
+Apache Cordova
+Apolo Client
+Appium
+Azure B2C
+Azure Logic Apps
+C/C++
+Camunda
+Cassandra
+DAX
+Elixir
+Ember.js
+F#
+Fabric.js
+Firebase
+Flask
+Gatsby
+GlassFish
+GoLang
+Google Analytics
+Google Cloud VMware Engine
+JMeter
+Load Testing Tools
+MQTT
+MS Dynamics
+Mendix
+Nest.js
+Oracle Integration Cloud
+Provar
+QA-A
+Redis
+SCSS
+SEO
+Selenium
+SharePoint
+Sitefinity
+Solidworks API
+SpecFlow
+Twig
+Unity
+WebGL
+Webpack
+Xamarin
+Zustand
+web3.js
+Google Cloud Platform (GCP)
+Cloudflaire
+pyth
+Gitlab CI
+Pandas
+WebUI
+Estimation
+QA-M
+QML
+Dejan Varmeđa
+Corda
+FastAPI
+DynamoDB
+Unit Testing
+Adestra
+Visual Basic
+XSLT
+SQL Server
+XML
+CloudWatch
+.NET
+Cloud Native AWS
