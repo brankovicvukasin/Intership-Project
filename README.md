@@ -5,6 +5,14 @@
 
 During my internship at Vega It Nis, I developed a full-stack web application for web scraping to analyze client requests and technology trends. The application was designed to scrape data from a local Kanban board web app, which contained all client requests, as well as other external websites for technology-related keywords.
 
+![Picture1](https://github.com/brankovicvukasin/Intership-Project/blob/main/pictures/1.png "pic1")
+![Picture2](https://github.com/brankovicvukasin/Intership-Project/blob/main/pictures/2.png "pic2")
+![Picture3](https://github.com/brankovicvukasin/Intership-Project/blob/main/pictures/3.png "pic3")
+![Picture4](https://github.com/brankovicvukasin/Intership-Project/blob/main/pictures/4.png "pic4")
+![Picture5](https://github.com/brankovicvukasin/Intership-Project/blob/main/pictures/5.png "pic5")
+![Picture6](https://github.com/brankovicvukasin/Intership-Project/blob/main/pictures/6.png "pic6")
+![Picture7](https://github.com/brankovicvukasin/Intership-Project/blob/main/pictures/7.png "pic7")
+
 ## Features
 
 - **Data Scraping:** Extract client requests from a local Kanban board web app and external websites for technology keywords.
